@@ -51,10 +51,11 @@ Tiffany is a developer advocate at VMware and is focused on Kubernetes and Cloud
 * [YouTube Videos](https://www.youtube.com/@tiffanyfay)
 * [Slides](https://speakerdeck.com/tiffanyfay)
 
-<!-- ### Upcoming
+### Upcoming
 
 | Event | Location | Talk |
-| -------- | -------- | -------- | -->
+| -------- | -------- | -------- |
+| JavaLand | Nürburg, Germany | Bootiful Kubernetes Operators
 
 ### Past
 #### 2023
