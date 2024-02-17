@@ -40,7 +40,7 @@ a:active {
 </style>
 
 <img src="assets/img/tiffany.jpg" style="width:350px;float:left;margin-right:15px">
-Tiffany is a developer advocate at VMware and is focused on Kubernetes and Cloud Native technologies. She previously worked as a software developer and developer advocate (nerd whisperer) for containers at Amazon. She also formerly worked at Docker and Intel. Prior to that, she graduated from Georgia Tech with a degree in electrical engineering. In her free time, she really likes to travel and dabble in photography. You can find her on Twitter [@tiffanyfayj](https://twitter.com/tiffanyfayj) or on [linktr.ee/tiffanyfay](https://linktr.ee/tiffanyfay).
+Tiffany is a technology advocate, technical content creator, and community enabler in the Cloud Native space. She most recently was a senior developer advocate at VMware. She also formerly worked as a software developer and developer advocate at Amazon, Docker, and Intel. Before that, she graduated from Georgia Tech with a degree in electrical engineering. In her free time, she likes to travel and dabble in photography. You can find her on Twitter @tiffanyfayj.
 
 ## Blogs/Guides
 * [VMware Tanzu Developer Center](https://tanzu.vmware.com/developer/team/tiffany-jernigan/)
@@ -55,7 +55,13 @@ Tiffany is a developer advocate at VMware and is focused on Kubernetes and Cloud
 
 | Event | Location | Talk |
 | -------- | -------- | -------- |
-| JavaLand | Nürburg, Germany | Bootiful Kubernetes Operators
+| Cloud Native Rejekts | Paris, France 🇫🇷 | A hitchhiker's guide to CNCF/OSS observability solutions around Kubernetes (30m)
+| JavaLand | Nürburg, Germany 🇩🇪 | Bootiful Kubernetes Operators
+| Devoxx France | Paris, France 🇫🇷 | 11 tricks to improve your productivity and reduce your frustration with Kubernetes (30m)
+| Devoxx Greece | Athens, Greece 🇬🇷 | A hitchhikers guide to observe (Java) applications in Kubernetes (50m)
+| Devoxx UK | London, UK 🇬🇧 | 11 tricks to improve your productivity and reduce your frustration with Kubernetes (30m)
+| Devoxx UK | London, UK 🇬🇧 | Stop giving root access and start securing your Kubernetes clusters instead (50m)
+
 
 ### Past
 #### 2023
