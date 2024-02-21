@@ -61,6 +61,7 @@ Tiffany is a technology advocate, technical content creator, and community enabl
 | Devoxx Greece | Athens, Greece 🇬🇷 | A hitchhikers guide to observe (Java) applications in Kubernetes (50m)
 | Devoxx UK | London, UK 🇬🇧 | 11 tricks to improve your productivity and reduce your frustration with Kubernetes (30m)
 | Devoxx UK | London, UK 🇬🇧 | Stop giving root access and start securing your Kubernetes clusters instead (50m)
+| GeeCon | Kraków, Poland 🇵🇱 | Bootiful Kubernetes Operators
 
 
 ### Past
