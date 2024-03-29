@@ -45,7 +45,6 @@ Hey! I, am Tiffany and I am a technology advocate, technical content creator, an
 In my free time, I like to [travel](https://instagram.com/_tiffanyfay_) and [dabble in photography](https://instagram.com/tiffanyfayj) (I took this photo of me). You can find me on Twitter [@tiffanyfayj](https://www.twitter.com/tiffanyfayj) and everywhere else via [Linktree](https://linktr.ee/tiffanyfay).
 
 ## Blogs/Guides
-* [VMware Tanzu Developer Center](https://tanzu.vmware.com/developer/team/tiffany-jernigan/)
 * [AWS Compute Blog](https://aws.amazon.com/blogs/compute/author/tfj/)
 * [Medium](https://medium.com/@tiffanyfay)
 
@@ -55,21 +54,15 @@ In my free time, I like to [travel](https://instagram.com/_tiffanyfay_) and [dab
 
 ### Upcoming
 
-##### March
-
-Date(s)| Event | Location | Talk |
-| -------- | -------- | -------- | -------- |
-17-18 | Cloud Native Rejekts | Paris, France 🇫🇷 | A hitchhiker's guide to CNCF/OSS observability solutions around Kubernetes (30m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
-
 ##### April
 
 |  |  |  |  |
 | -------- | -------- | -------- | -------- |
-09-11 | JavaLand | Nürburg, Germany 🇩🇪 | Bootiful Kubernetes Operators (40m) + [Timo Salm](https://timosalm.github.io)
-09-11 | JavaLand | Nürburg, Germany 🇩🇪 | 9 (x2) tricks to improve your productivity and reduce your frustration with Kubernetes (40m)
+09 | JavaLand | Nürburg, Germany 🇩🇪 | 9 (x2) tricks to improve your productivity and reduce your frustration with Kubernetes (40m)
+10 | JavaLand | Nürburg, Germany 🇩🇪 | Bootiful Kubernetes Operators (40m) + [Timo Salm](https://timosalm.github.io)
 17-19 | Devoxx France | Paris, France 🇫🇷 | 11 tricks to improve your productivity and reduce your frustration with Kubernetes (30m) + [Jérôme Petazzoni](https://hachyderm.io/@jpetazzo)
 17-19 | Devoxx France | Paris, France 🇫🇷 | A hitchhikers guide to observe (Java) applications in Kubernetes (45m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
-18-20 | Devoxx Greece | Athens, Greece 🇬🇷 | A hitchhikers guide to observe (Java) applications in Kubernetes (50m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
+19 | Devoxx Greece | Athens, Greece 🇬🇷 | A hitchhikers guide to observe (Java) applications in Kubernetes (50m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
 
 ##### May
 
@@ -79,9 +72,20 @@ Date(s)| Event | Location | Talk |
 08-10 | Devoxx UK | London, UK 🇬🇧 | Stop giving root access and start securing your Kubernetes clusters instead (50m)
 11    | Java Day Istanbul | Istanbul, Turkey 🇹🇷 | Bootiful Kubernetes Operators (45m) + [Ties van de Ven](https://www.tiesvandeven.nl)
 15-17 | GeeCon | Kraków, Poland 🇵🇱 | Bootiful Kubernetes Operators (50m) + [Ties van de Ven](https://www.tiesvandeven.nl)
+30-31 | Spring I/O | Barcelona, Spain | Magical Beans and Mystery (50m) + [Timo Salm](https://timosalm.github.io) 
 
 
 ### Past
+
+##### 2024
+
+{:.custom-table}
+
+| Event | Location | Talk |
+| -------- | -------- | -------- |
+Cloud Native Rejekts | Paris, France 🇫🇷 | A hitchhiker's guide to CNCF/OSS observability solutions around Kubernetes (30m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
+{:.custom-table}
+
 ##### 2023
 
 
