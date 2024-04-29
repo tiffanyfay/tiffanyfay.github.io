@@ -40,7 +40,7 @@ a:active {
 </style>
 
 <img src="assets/img/tiffany.jpg" style="width:350px;float:left;margin-right:15px">
-Hey! I, am Tiffany and I am a technology advocate, technical content creator, and community enabler in the Cloud Native space. I most recently was a senior developer advocate at VMware. I was previously a software developer and developer advocate at Amazon, Docker, and Intel. I started off by graduating from Georgia Tech in electrical engineering. 
+Hey! I am Tiffany and I am a technology advocate, technical content creator, and community enabler in the Cloud Native space. I most recently was a senior developer advocate at VMware. I was previously a software developer and developer advocate at Amazon, Docker, and Intel. I started off by graduating from Georgia Tech in electrical engineering. 
 
 In my free time, I like to [travel](https://instagram.com/_tiffanyfay_) and [dabble in photography](https://instagram.com/tiffanyfayj) (I took this photo of me). You can find me on Twitter [@tiffanyfayj](https://www.twitter.com/tiffanyfayj) and everywhere else via [Linktree](https://linktr.ee/tiffanyfay).
 
@@ -54,26 +54,19 @@ In my free time, I like to [travel](https://instagram.com/_tiffanyfay_) and [dab
 
 ### Upcoming
 
-##### April
-
-|  |  |  |  |
-| -------- | -------- | -------- | -------- |
-09 | JavaLand | Nürburg, Germany 🇩🇪 | 9 (x2) tricks to improve your productivity and reduce your frustration with Kubernetes (40m)
-10 | JavaLand | Nürburg, Germany 🇩🇪 | Bootiful Kubernetes Operators (40m) + [Timo Salm](https://timosalm.github.io)
-17-19 | Devoxx France | Paris, France 🇫🇷 | 11 tricks to improve your productivity and reduce your frustration with Kubernetes (30m) + [Jérôme Petazzoni](https://hachyderm.io/@jpetazzo)
-17-19 | Devoxx France | Paris, France 🇫🇷 | A hitchhikers guide to observe (Java) applications in Kubernetes (45m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
-19 | Devoxx Greece | Athens, Greece 🇬🇷 | A hitchhikers guide to observe (Java) applications in Kubernetes (50m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
-
-##### May
-
-|  |  |  |  |
-| -------- | -------- | -------- | -------- |
-08-10 | Devoxx UK | London, UK 🇬🇧 | 11 tricks to improve your productivity and reduce your frustration with Kubernetes (30m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
-08-10 | Devoxx UK | London, UK 🇬🇧 | Stop giving root access and start securing your Kubernetes clusters instead (50m)
-11    | Java Day Istanbul | Istanbul, Turkey 🇹🇷 | Bootiful Kubernetes Operators (45m) + [Ties van de Ven](https://www.tiesvandeven.nl)
-15-17 | GeeCon | Kraków, Poland 🇵🇱 | Bootiful Kubernetes Operators (50m) + [Ties van de Ven](https://www.tiesvandeven.nl)
-30-31 | Spring I/O | Barcelona, Spain | Magical Beans and Mystery (50m) + [Timo Salm](https://timosalm.github.io) 
-
+{:.custom-table}
+| Event | Location | Talk |
+| -------- | -------- | -------- |
+Devoxx UK | London, UK 🇬🇧 | 11 tricks to improve your productivity and reduce your frustration with Kubernetes (30m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
+Devoxx UK | London, UK 🇬🇧 | Stop giving root access and start securing your Kubernetes clusters instead (50m)
+Java Day Istanbul | Istanbul, Turkey 🇹🇷 | Bootiful Kubernetes Operators (45m) + [Ties van de Ven](https://www.tiesvandeven.nl)
+GeeCon | Kraków, Poland 🇵🇱 | Bootiful Kubernetes Operators (50m) + [Ties van de Ven](https://www.tiesvandeven.nl)
+Spring I/O | Barcelona, Spain 🇪🇸 | Magical Beans and Mystery (50m) + [Timo Salm](https://timosalm.github.io)
+KCD Czech & Slovak | Prague, Czech Republic 🇨🇿 | 11 tricks to improve your productivity and reduce your frustration with Kubernetes
+Devoxx Poland | Kraków, Poland 🇵🇱 | Bootiful Kubernetes Operators (50m) + [Timo Salm](https://timosalm.github.io)
+KCD Munich | Munich, Germany 🇩🇪 | A hitchhikers guide to observe (Java) applications in Kubernetes (30m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
+DevRelCon | New York City, NY 🇺🇸 | Code, Coffee, and Connections (7m)
+{:.custom-table}
 
 ### Past
 
@@ -83,6 +76,11 @@ In my free time, I like to [travel](https://instagram.com/_tiffanyfay_) and [dab
 
 | Event | Location | Talk |
 | -------- | -------- | -------- |
+Devoxx Greece | Athens, Greece 🇬🇷 | A hitchhikers guide to observe (Java) applications in Kubernetes (50m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
+Devoxx France | Paris, France 🇫🇷 | 11 tricks to improve your productivity and reduce your frustration with Kubernetes (30m) + [Jérôme Petazzoni](https://hachyderm.io/@jpetazzo)
+Devoxx France | Paris, France 🇫🇷 | A hitchhikers guide to observe (Java) applications in Kubernetes (45m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
+JavaLand | Nürburg, Germany 🇩🇪 | Bootiful Kubernetes Operators (40m) + [Timo Salm](https://timosalm.github.io)
+JavaLand | Nürburg, Germany 🇩🇪 | 9 (x2) tricks to improve your productivity and reduce your frustration with Kubernetes (40m)
 Cloud Native Rejekts | Paris, France 🇫🇷 | A hitchhiker's guide to CNCF/OSS observability solutions around Kubernetes (30m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
 {:.custom-table}
 
@@ -107,7 +105,7 @@ Cloud Native Rejekts | Paris, France 🇫🇷 | A hitchhiker's guide to CNCF/OSS
 | Enix Meetup | Virtual 🌐 | Let's deploy Kubernetes on 7 different cloud providers with Terraform (because why not) + [Jérôme Petazzoni](https://hachyderm.io/@jpetazzo)
 | DevOpsDays NYC | New York City, NY 🇺🇸 | How to Make Kubernetes Rhyme with Prod-Readiness (30m)
 | Devoxx Poland | Kraków, Poland 🇵🇱 | Getting Started with Kubernetes (50m)
-| [Spring I/O](https://2023.springio.net/sessions/going-serverless-with-spring-boot-3-workshop/) | Barcelona, Spain | Going Serverless with Spring Boot 3 (Workshop) + [Timo Salm](https://timosalm.github.io)
+| [Spring I/O](https://2023.springio.net/sessions/going-serverless-with-spring-boot-3-workshop/) | Barcelona, Spain 🇪🇸 | Going Serverless with Spring Boot 3 (Workshop) + [Timo Salm](https://timosalm.github.io)
 | [Devoxx UK](https://www.devoxx.co.uk/talk/?id=3866) | London, UK 🇬🇧 | Distributed patterns compared: Frameworks vs. K8s vs. Service Mesh vs. eBPF (50m)  + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
 | Devoxx Greece | Athens, Greece 🇬🇷 | Cloud Native Security for the Rest of Us (50m)
 | KubeCon EU | Amsterdam, The Netherlands 🇳🇱 | How to Make Kubernetes Rhyme with Prod-Readiness (30m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
