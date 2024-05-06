@@ -63,6 +63,7 @@ Java Day Istanbul | Istanbul, Turkey 🇹🇷 | Bootiful Kubernetes Operators (4
 GeeCon | Kraków, Poland 🇵🇱 | Bootiful Kubernetes Operators (50m) + [Ties van de Ven](https://www.tiesvandeven.nl)
 Spring I/O | Barcelona, Spain 🇪🇸 | Magical Beans and Mystery (50m) + [Timo Salm](https://timosalm.github.io)
 KCD Czech & Slovak | Prague, Czech Republic 🇨🇿 | 11 tricks to improve your productivity and reduce your frustration with Kubernetes
+KCD Zürich | Zürich, Switzerland 🇨🇭 | 11 tricks to improve your productivity and reduce your frustration with Kubernetes
 Devoxx Poland | Kraków, Poland 🇵🇱 | Bootiful Kubernetes Operators (50m) + [Timo Salm](https://timosalm.github.io)
 KCD Munich | Munich, Germany 🇩🇪 | A hitchhikers guide to observe (Java) applications in Kubernetes (30m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
 DevRelCon | New York City, NY 🇺🇸 | Code, Coffee, and Connections (7m)
