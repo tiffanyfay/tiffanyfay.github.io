@@ -61,7 +61,6 @@ Spring I/O | Barcelona, Spain 🇪🇸 | Magical Beans and Mystery (50m) + [Timo
 KCD Czech & Slovak | Prague, Czech Republic 🇨🇿 | 11 tricks to improve your productivity and reduce your frustration with Kubernetes
 KCD Zürich | Zürich, Switzerland 🇨🇭 | 11 tricks to improve your productivity and reduce your frustration with Kubernetes
 Devoxx Poland | Kraków, Poland 🇵🇱 | Bootiful Kubernetes Operators (50m) + [Timo Salm](https://timosalm.github.io)
-KCD Munich | Munich, Germany 🇩🇪 | A hitchhikers guide to observe (Java) applications in Kubernetes (30m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
 DevRelCon | New York City, NY 🇺🇸 | Code, Coffee, and Connections (7m)
 Container Days | Hamburg, Germany 🇩🇪 | Stop giving root access and start securing your Kubernetes clusters instead (30m)
 {:.custom-table}
