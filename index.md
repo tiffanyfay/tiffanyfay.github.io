@@ -57,16 +57,13 @@ In my free time, I like to [travel](https://instagram.com/_tiffanyfay_) and [dab
 {:.custom-table}
 | Event | Location | Talk |
 | -------- | -------- | -------- |
-Devoxx UK | London, UK 🇬🇧 | 11 tricks to improve your productivity and reduce your frustration with Kubernetes (30m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
-Devoxx UK | London, UK 🇬🇧 | Stop giving root access and start securing your Kubernetes clusters instead (50m)
-Java Day Istanbul | Istanbul, Turkey 🇹🇷 | Bootiful Kubernetes Operators (45m) + [Ties van de Ven](https://www.tiesvandeven.nl)
-GeeCon | Kraków, Poland 🇵🇱 | Bootiful Kubernetes Operators (50m) + [Ties van de Ven](https://www.tiesvandeven.nl)
 Spring I/O | Barcelona, Spain 🇪🇸 | Magical Beans and Mystery (50m) + [Timo Salm](https://timosalm.github.io)
 KCD Czech & Slovak | Prague, Czech Republic 🇨🇿 | 11 tricks to improve your productivity and reduce your frustration with Kubernetes
 KCD Zürich | Zürich, Switzerland 🇨🇭 | 11 tricks to improve your productivity and reduce your frustration with Kubernetes
 Devoxx Poland | Kraków, Poland 🇵🇱 | Bootiful Kubernetes Operators (50m) + [Timo Salm](https://timosalm.github.io)
 KCD Munich | Munich, Germany 🇩🇪 | A hitchhikers guide to observe (Java) applications in Kubernetes (30m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
 DevRelCon | New York City, NY 🇺🇸 | Code, Coffee, and Connections (7m)
+Container Days | Hamburg, Germany 🇩🇪 | Stop giving root access and start securing your Kubernetes clusters instead (30m)
 {:.custom-table}
 
 ### Past
@@ -77,6 +74,10 @@ DevRelCon | New York City, NY 🇺🇸 | Code, Coffee, and Connections (7m)
 
 | Event | Location | Talk |
 | -------- | -------- | -------- |
+GeeCon | Kraków, Poland 🇵🇱 | Bootiful Kubernetes Operators (50m) + [Ties van de Ven](https://www.tiesvandeven.nl)
+Java Day Istanbul | Istanbul, Turkey 🇹🇷 | Bootiful Kubernetes Operators (45m) + [Ties van de Ven](https://www.tiesvandeven.nl)
+Devoxx UK | London, UK 🇬🇧 | Stop giving root access and start securing your Kubernetes clusters instead (50m)
+Devoxx UK | London, UK 🇬🇧 | 11 tricks to improve your productivity and reduce your frustration with Kubernetes (30m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
 Devoxx Greece | Athens, Greece 🇬🇷 | A hitchhikers guide to observe (Java) applications in Kubernetes (50m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
 Devoxx France | Paris, France 🇫🇷 | 11 tricks to improve your productivity and reduce your frustration with Kubernetes (30m) + [Jérôme Petazzoni](https://hachyderm.io/@jpetazzo)
 Devoxx France | Paris, France 🇫🇷 | A hitchhikers guide to observe (Java) applications in Kubernetes (45m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
