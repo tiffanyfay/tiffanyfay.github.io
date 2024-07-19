@@ -59,9 +59,7 @@ In my free time, I like to [travel](https://instagram.com/_tiffanyfay_) and [dab
 
 | Event | Location | Talk |
 | -------- | -------- | -------- |
-DevRelCon | New York City, NY 🇺🇸 | Code, Coffee, and Connections (7m)
 VMware Explore/SpringOne | Las Vegas, NV 🇺🇸 | Let's Generate Art with Kubernetes and Spring! (45m)
-VMware Explore/SpringOne | Las Vegas, NV 🇺🇸 | Magical Beans and Mystery with Spring (45m)
 {:.custom-table}
 
 #### Fall/Winter
@@ -82,6 +80,7 @@ All Things Open (ATO) | Raleigh, NC 🇺🇸 | Cloud Native Security for the Res
 
 | Event | Location | Talk |
 | -------- | -------- | -------- |
+DevRelCon | New York City, NY 🇺🇸 | Code, Coffee, and Connections (7m)
 KCD Munich | Munich, Germany 🇩🇪 | A hitchhiker's guide to CNCF/OSS observability solutions around Kubernetes (30m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
 Devoxx Poland | Kraków, Poland 🇵🇱 | Bootiful Kubernetes Operators (50m) + [Timo Salm](https://timosalm.github.io)
 KCD Zürich | Zürich, Switzerland 🇨🇭 | 11 tricks to improve your productivity and reduce your frustration with Kubernetes
