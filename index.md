@@ -53,14 +53,14 @@ In my free time, I like to [travel](https://instagram.com/_tiffanyfay_) and [dab
 * [Slides](https://speakerdeck.com/tiffanyfay)
 
 ### Upcoming
-#### Spring/Summer
+<!-- #### Spring/Summer
 
 {:.custom-table}
 
 | Event | Location | Talk |
 | -------- | -------- | -------- |
-VMware Explore/SpringOne | Las Vegas, NV 🇺🇸 | Let's Generate Art with Kubernetes and Spring! (45m)
-{:.custom-table}
+
+{:.custom-table} -->
 
 #### Fall/Winter
 
@@ -68,7 +68,8 @@ VMware Explore/SpringOne | Las Vegas, NV 🇺🇸 | Let's Generate Art with Kube
 
 | Event | Location | Talk |
 | -------- | -------- | -------- |
-Container Days | Hamburg, Germany 🇩🇪 | Stop giving root access and start securing your Kubernetes clusters instead (30m)
+Devoxx Morocco | Marrakesh, Morocco 🇲🇦 | Distributed applications and Kubernetes: Better off with frameworks, service meshes or both (50m)  + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
+Devoxx Morocco | Marrakesh, Morocco 🇲🇦 | Stop giving root access and start securing your Kubernetes clusters instead (50m)
 All Things Open (ATO) | Raleigh, NC 🇺🇸 | Cloud Native Security for the Rest of Us
 {:.custom-table}
 
@@ -80,6 +81,8 @@ All Things Open (ATO) | Raleigh, NC 🇺🇸 | Cloud Native Security for the Res
 
 | Event | Location | Talk |
 | -------- | -------- | -------- |
+Container Days | Hamburg, Germany 🇩🇪 | Stop giving root access and start securing your Kubernetes clusters instead (30m)
+VMware Explore/SpringOne | Las Vegas, NV 🇺🇸 | Let's Generate Art with Kubernetes and Spring! (45m)
 DevRelCon | New York City, NY 🇺🇸 | Code, Coffee, and Connections (7m)
 KCD Munich | Munich, Germany 🇩🇪 | A hitchhiker's guide to CNCF/OSS observability solutions around Kubernetes (30m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
 Devoxx Poland | Kraków, Poland 🇵🇱 | Bootiful Kubernetes Operators (50m) + [Timo Salm](https://timosalm.github.io)
