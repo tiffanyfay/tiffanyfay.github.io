@@ -68,8 +68,6 @@ In my free time, I like to [travel](https://instagram.com/_tiffanyfay_) and [dab
 
 | Event | Location | Talk |
 | -------- | -------- | -------- |
-Devoxx Morocco | Marrakesh, Morocco 🇲🇦 | Distributed applications and Kubernetes: Better off with frameworks, service meshes or both (50m)  + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
-Devoxx Morocco | Marrakesh, Morocco 🇲🇦 | Stop giving root access and start securing your Kubernetes clusters instead (50m)
 All Things Open (ATO) | Raleigh, NC 🇺🇸 | Cloud Native Security for the Rest of Us
 {:.custom-table}
 
@@ -81,6 +79,8 @@ All Things Open (ATO) | Raleigh, NC 🇺🇸 | Cloud Native Security for the Res
 
 | Event | Location | Talk |
 | -------- | -------- | -------- |
+Devoxx Morocco | Marrakesh, Morocco 🇲🇦 | Stop giving root access and start securing your Kubernetes clusters instead (50m)
+Devoxx Morocco | Marrakesh, Morocco 🇲🇦 | Distributed applications and Kubernetes: Better off with frameworks, service meshes or both (50m)  + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
 Container Days | Hamburg, Germany 🇩🇪 | Stop giving root access and start securing your Kubernetes clusters instead (30m)
 VMware Explore/SpringOne | Las Vegas, NV 🇺🇸 | Let's Generate Art with Kubernetes and Spring! (45m)
 DevRelCon | New York City, NY 🇺🇸 | Code, Coffee, and Connections (7m)
