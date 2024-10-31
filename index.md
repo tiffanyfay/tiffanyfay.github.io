@@ -62,13 +62,13 @@ In my free time, I like to [travel](https://instagram.com/_tiffanyfay_) and [dab
 
 {:.custom-table} -->
 
-#### Fall/Winter
+<!-- #### Fall/Winter -->
 
 {:.custom-table}
 
 | Event | Location | Talk |
 | -------- | -------- | -------- |
-All Things Open (ATO) | Raleigh, NC 🇺🇸 | Cloud Native Security for the Rest of Us
+KubeCon NA | Salt Lake City, UT 🇺🇸 | Tutorial: OpenTelemetry Hands-on - Automatic and Manual Instrumentation for Java and Python Apps (1.5h) + Tobias Angerstein
 {:.custom-table}
 
 ### Past
@@ -79,6 +79,7 @@ All Things Open (ATO) | Raleigh, NC 🇺🇸 | Cloud Native Security for the Res
 
 | Event | Location | Talk |
 | -------- | -------- | -------- |
+All Things Open (ATO) | Raleigh, NC 🇺🇸 | Cloud Native Security for the Rest of Us (45m)
 Devoxx Morocco | Marrakesh, Morocco 🇲🇦 | Stop giving root access and start securing your Kubernetes clusters instead (50m)
 Devoxx Morocco | Marrakesh, Morocco 🇲🇦 | Distributed applications and Kubernetes: Better off with frameworks, service meshes or both (50m)  + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
 Container Days | Hamburg, Germany 🇩🇪 | Stop giving root access and start securing your Kubernetes clusters instead (30m)
