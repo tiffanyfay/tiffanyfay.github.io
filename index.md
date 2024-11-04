@@ -40,7 +40,7 @@ a:active {
 </style>
 
 <img src="assets/img/tiffany.jpg" style="width:350px;float:left;margin-right:15px">
-Hey! I am Tiffany and I am a technology advocate, technical content creator, and community enabler in the Cloud Native space. I most recently was a senior developer advocate at VMware. I was previously a software developer and developer advocate at Amazon, Docker, and Intel. I started off by graduating from Georgia Tech in electrical engineering. 
+Hey! I am Tiffany and I am a CNCF Ambassador, technology advocate, technical content creator, and community enabler in the Cloud Native space. I most recently was a senior developer advocate at VMware. I was previously a software developer and developer advocate at Amazon, Docker, and Intel. I started off by graduating from Georgia Tech in electrical engineering. 
 
 In my free time, I like to [travel](https://instagram.com/_tiffanyfay_) and [dabble in photography](https://instagram.com/tiffanyfayj) (I took this photo of me). You can find me on Twitter [@tiffanyfayj](https://www.twitter.com/tiffanyfayj) and everywhere else via [Linktree](https://linktr.ee/tiffanyfay).
 
