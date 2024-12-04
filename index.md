@@ -42,11 +42,15 @@ a:active {
 <img src="assets/img/tiffany.jpg" style="width:350px;float:left;margin-right:15px">
 Hey! I am Tiffany and I am a CNCF Ambassador, technology advocate, technical content creator, and community enabler in the Cloud Native space. I most recently was a senior developer advocate at VMware. I was previously a software developer and developer advocate at Amazon, Docker, and Intel. I started off by graduating from Georgia Tech in electrical engineering. 
 
-In my free time, I like to [travel](https://instagram.com/_tiffanyfay_) and [dabble in photography](https://instagram.com/tiffanyfayj) (I took this photo of me). You can find me on Twitter [@tiffanyfayj](https://www.twitter.com/tiffanyfayj) and everywhere else via [Linktree](https://linktr.ee/tiffanyfay).
+In my free time, I like to [travel](https://instagram.com/_tiffanyfay_) and [dabble in photography](https://instagram.com/tiffanyfayj) (I took this photo of me). 
+
+You can find me on Twitter [@tiffanyfayj](https://www.twitter.com/tiffanyfayj) and everywhere else via [Linktree](https://linktr.ee/tiffanyfay).
 
 ## Blogs/Guides
 * [AWS Compute Blog](https://aws.amazon.com/blogs/compute/author/tfj/)
 * [Medium](https://medium.com/@tiffanyfay)
+* [VMware Guides](https://github.com/search?q=repo%3Avmware-tanzu%2Ftanzu-dev-portal+path%3A%2F%5Econtent%5C%2Fguides%5C%2F%2F++tiffany&type=code) (original site defunct)
+* [VMware Blogs](https://github.com/search?q=repo%3Avmware-tanzu%2Ftanzu-dev-portal+path%3A%2F%5Econtent%5C%2Fblog%5C%2F%2F++tiffany&type=code) (original site defunct)
 
 ## Talks
 * [YouTube Videos](https://www.youtube.com/@tiffanyfay)
@@ -68,7 +72,7 @@ In my free time, I like to [travel](https://instagram.com/_tiffanyfay_) and [dab
 
 | Event | Location | Talk |
 | -------- | -------- | -------- |
-KubeCon NA | Salt Lake City, UT 🇺🇸 | Tutorial: OpenTelemetry Hands-on - Automatic and Manual Instrumentation for Java and Python Apps (1.5h) + Tobias Angerstein
+
 {:.custom-table}
 
 ### Past
@@ -79,6 +83,7 @@ KubeCon NA | Salt Lake City, UT 🇺🇸 | Tutorial: OpenTelemetry Hands-on - Au
 
 | Event | Location | Talk |
 | -------- | -------- | -------- |
+KubeCon NA | Salt Lake City, UT 🇺🇸 | Tutorial: OpenTelemetry Hands-on - Automatic and Manual Instrumentation for Java and Python Apps (1.5h) + Tobias Angerstein
 All Things Open (ATO) | Raleigh, NC 🇺🇸 | Cloud Native Security for the Rest of Us (45m)
 Devoxx Morocco | Marrakesh, Morocco 🇲🇦 | Stop giving root access and start securing your Kubernetes clusters instead (50m)
 Devoxx Morocco | Marrakesh, Morocco 🇲🇦 | Distributed applications and Kubernetes: Better off with frameworks, service meshes or both (50m)  + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
