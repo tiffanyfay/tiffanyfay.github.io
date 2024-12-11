@@ -56,7 +56,7 @@ You can find me on Twitter [@tiffanyfayj](https://www.twitter.com/tiffanyfayj) a
 * [YouTube Videos](https://www.youtube.com/@tiffanyfay)
 * [Slides](https://speakerdeck.com/tiffanyfay)
 
-### Upcoming
+<!-- ### Upcoming -->
 <!-- #### Spring/Summer
 
 {:.custom-table}
@@ -68,12 +68,12 @@ You can find me on Twitter [@tiffanyfayj](https://www.twitter.com/tiffanyfayj) a
 
 <!-- #### Fall/Winter -->
 
-{:.custom-table}
+<!-- {:.custom-table}
 
 | Event | Location | Talk |
 | -------- | -------- | -------- |
 
-{:.custom-table}
+{:.custom-table} -->
 
 ### Past
 
