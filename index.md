@@ -58,12 +58,14 @@ You can find me on Twitter [@tiffanyfayj](https://www.twitter.com/tiffanyfayj) a
 
 <!-- ### Upcoming -->
 <!-- #### Spring/Summer
-
-{:.custom-table}
+-->
+<!-- {:.custom-table}
 
 | Event | Location | Talk |
-| -------- | -------- | -------- |
+| -------- | -------- | -------- | -->
 
+
+<!--
 {:.custom-table} -->
 
 <!-- #### Fall/Winter -->
@@ -76,6 +78,14 @@ You can find me on Twitter [@tiffanyfayj](https://www.twitter.com/tiffanyfayj) a
 {:.custom-table} -->
 
 ### Past
+
+##### 2025
+
+{:.custom-table}
+
+| Event | Location | Talk |
+| -------- | -------- | -------- |
+Devoxx Greece | Athens, Greece 🇬🇷 | Breaking conversational barriers through multi-modal distributed AI agents (40m) + Abhimanyu Selvan
 
 ##### 2024
 
