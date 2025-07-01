@@ -56,13 +56,15 @@ You can find me on Twitter [@tiffanyfayj](https://www.twitter.com/tiffanyfayj) a
 * [YouTube Videos](https://www.youtube.com/@tiffanyfay)
 * [Slides](https://speakerdeck.com/tiffanyfay)
 
-<!-- ### Upcoming -->
+### Upcoming
 <!-- #### Spring/Summer
 -->
-<!-- {:.custom-table}
+{:.custom-table}
 
 | Event | Location | Talk |
-| -------- | -------- | -------- | -->
+| -------- | -------- | -------- |
+DevRelCon | NYC, New York 🇺🇸 | The Art of Vulgarization: Making Complex Ideas Accessible (25m) + Nancy Chauhan
+All Things Open (ATO) | Raleigh, NC 🇺🇸 | Let's Generate Art with Kubernetes and Spring! (45m)
 
 
 <!--
@@ -85,6 +87,7 @@ You can find me on Twitter [@tiffanyfayj](https://www.twitter.com/tiffanyfayj) a
 
 | Event | Location | Talk |
 | -------- | -------- | -------- |
+Open Observability Summit | Denver, CO 🇺🇸 | Let's Generate Art and Traces! (25m)
 Devoxx Greece | Athens, Greece 🇬🇷 | Breaking conversational barriers through multi-modal distributed AI agents (40m) + Abhimanyu Selvan
 
 ##### 2024
