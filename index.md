@@ -63,8 +63,7 @@ You can find me on Twitter [@tiffanyfayj](https://www.twitter.com/tiffanyfayj) a
 
 | Event | Location | Talk |
 | -------- | -------- | -------- |
-DevRelCon | NYC, New York 🇺🇸 | The Art of Vulgarization: Making Complex Ideas Accessible (25m) + Nancy Chauhan
-All Things Open (ATO) | Raleigh, NC 🇺🇸 | Let's Generate Art with Kubernetes and Spring! (45m)
+KubeCon EU | Amsterdam, The Netherlands 🇳🇱 | Hello World, Meet the Spanimals: Observability for Beginners (30m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
 
 
 <!--
@@ -87,6 +86,10 @@ All Things Open (ATO) | Raleigh, NC 🇺🇸 | Let's Generate Art with Kubernete
 
 | Event | Location | Talk |
 | -------- | -------- | -------- |
+MCP Summit | Bellevue, WA 🇺🇸 | Exploring Observability with MCP Servers (20m) 
+All Things Open (ATO) | Raleigh, NC 🇺🇸 | Panel: Agentic AI Has Arrived. What Does Work Look Like for Developers? (45m) + Tim Berglund, Lawrence Lockhart, Alex Williams
+All Things Open (ATO) | Raleigh, NC 🇺🇸 | Let's Generate Art with Kubernetes and Spring! (45m)
+DevRelCon | NYC, New York 🇺🇸 | The Art of Vulgarization: Making Complex Ideas Accessible (25m) + Nancy Chauhan
 Open Observability Summit | Denver, CO 🇺🇸 | Let's Generate Art and Traces! (25m)
 Devoxx Greece | Athens, Greece 🇬🇷 | Breaking conversational barriers through multi-modal distributed AI agents (40m) + Abhimanyu Selvan
 
