@@ -89,7 +89,6 @@ dev2next| Lone Tree, CO 🇺🇸 | Hello World, Meet the Spanimals: Getting Star
 
 | Event | Location | Talk |
 | -------- | -------- | -------- |
-
 KubeCon EU | Amsterdam, The Netherlands 🇳🇱 | Hello World, Meet the Spanimals: Observability for Beginners (30m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
 SCALE23x | Pasadena, CA 🇺🇸 | Exploring Observability with MCP Servers (60m) 
 
