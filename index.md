@@ -40,13 +40,14 @@ a:active {
 </style>
 
 <img src="assets/img/tiffany.jpg" style="width:350px;float:left;margin-right:15px">
-Hey! I am Tiffany and I am a CNCF Ambassador, technology advocate, technical content creator, and community enabler in the Cloud Native space. I most recently was a senior developer advocate at VMware. I was previously a software developer and developer advocate at Amazon, Docker, and Intel. I started off by graduating from Georgia Tech in electrical engineering. 
+Hey! I am Tiffany and I am a Senior Developer Advocate at Grafana Labs and a CNCF Ambassador. I am focused on AI,  Tempo (distributed tracing) and Pyroscope (continuous profiling). I was previously a developer advocate and/or software developer at VMware, Amazon, Docker, and Intel (and a hardware engineer). I started off by graduating from Georgia Tech in electrical engineering. 
 
 In my free time, I like to [travel](https://instagram.com/_tiffanyfay_) and [dabble in photography](https://instagram.com/tiffanyfayj) (I took this photo of me). 
 
-You can find me on Twitter [@tiffanyfayj](https://www.twitter.com/tiffanyfayj) and everywhere else via [Linktree](https://linktr.ee/tiffanyfay).
+You can find me on Twitter [@tiffanyfayj](https://www.twitter.com/tiffanyfayj), Bluesky [tiffanyfay.dev](https://bsky.app/profile/tiffanyfay.dev) and everywhere else via [Linktree](https://linktr.ee/tiffanyfay).
 
 ## Blogs/Guides
+* [Grafana Blog](https://grafana.com/author/tiffany-jernigan)
 * [AWS Compute Blog](https://aws.amazon.com/blogs/compute/author/tfj/)
 * [Medium](https://medium.com/@tiffanyfay)
 * [VMware Guides](https://github.com/search?q=repo%3Avmware-tanzu%2Ftanzu-dev-portal+path%3A%2F%5Econtent%5C%2Fguides%5C%2F%2F++tiffany&type=code) (original site defunct)
@@ -63,7 +64,9 @@ You can find me on Twitter [@tiffanyfayj](https://www.twitter.com/tiffanyfayj) a
 
 | Event | Location | Talk |
 | -------- | -------- | -------- |
-KubeCon EU | Amsterdam, The Netherlands 🇳🇱 | Hello World, Meet the Spanimals: Observability for Beginners (30m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
+Open Source Summit | Minnepolis, MN 🇺🇸 | Hello World, Meet the Spanimals: Getting Started with Observability (30m)
+Observability Summit | Minnepolis, MN 🇺🇸 |  Exploring Observability with MCP Servers (30m)
+dev2next| Lone Tree, CO 🇺🇸 | Hello World, Meet the Spanimals: Getting Started with Observability (60m)
 
 
 <!--
@@ -79,6 +82,16 @@ KubeCon EU | Amsterdam, The Netherlands 🇳🇱 | Hello World, Meet the Spanima
 {:.custom-table} -->
 
 ### Past
+
+##### 2026
+
+{:.custom-table}
+
+| Event | Location | Talk |
+| -------- | -------- | -------- |
+
+KubeCon EU | Amsterdam, The Netherlands 🇳🇱 | Hello World, Meet the Spanimals: Observability for Beginners (30m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
+SCALE23x | Pasadena, CA 🇺🇸 | Exploring Observability with MCP Servers (60m) 
 
 ##### 2025
 
