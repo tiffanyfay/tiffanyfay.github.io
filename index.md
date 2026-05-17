@@ -64,8 +64,8 @@ You can find me on Twitter [@tiffanyfayj](https://www.twitter.com/tiffanyfayj), 
 
 | Event | Location | Talk |
 | -------- | -------- | -------- |
-Open Source Summit | Minnepolis, MN 🇺🇸 | Hello World, Meet the Spanimals: Getting Started with Observability (30m)
-Observability Summit | Minnepolis, MN 🇺🇸 |  Exploring Observability with MCP Servers (30m)
+Open Source Summit | Minneapolis, MN 🇺🇸 | Hello World, Meet the Spanimals: Getting Started with Observability (30m)
+Observability Summit | Minneapolis, MN 🇺🇸 |  Exploring Observability with MCP Servers (30m)
 dev2next| Lone Tree, CO 🇺🇸 | Hello World, Meet the Spanimals: Getting Started with Observability (60m)
 
 
